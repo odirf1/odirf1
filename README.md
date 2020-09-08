@@ -9,7 +9,7 @@ Now I plan to get into the *real* programming and develop apps.
 
 ### Links
 
-🌐 **–** [My Website](website) *(under construction)*
+🌐 **–** [My Website][website] *(under construction)*
 
 
 ...
