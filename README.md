@@ -9,7 +9,7 @@ Now I plan to get into the *real* programming and develop apps.
 
 ### Links
 
-🌐 **–** [My Website](website)*(under construction)*
+🌐 **–** [My Website](website) *(under construction)*
 
 
 ...
@@ -18,4 +18,4 @@ Now I plan to get into the *real* programming and develop apps.
 - [ ] Learn Kotlin
 
 
-[website]: http://odirf.de/
+[website]: https://odirf.de/
