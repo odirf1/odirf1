@@ -15,6 +15,9 @@ Now I plan to get into the *real* programming and develop apps.
 ...
 
 ### Goals
+- [x] Learn HTML and CSS
+- [x] Make your first project
+
 - [ ] Learn Kotlin
 
 
